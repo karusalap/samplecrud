@@ -1,6 +1,6 @@
 package com.pavan.samplecrud.repository;
 
-import com.pavan.samplecrud.entity.Employee;
+import com.pavan.samplecrud.model.Employee;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

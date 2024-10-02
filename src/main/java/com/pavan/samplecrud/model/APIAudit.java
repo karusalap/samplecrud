@@ -1,4 +1,4 @@
-package com.pavan.samplecrud.entity;
+package com.pavan.samplecrud.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;

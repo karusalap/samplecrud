@@ -1,6 +1,6 @@
 package com.pavan.samplecrud.service;
 
-import com.pavan.samplecrud.entity.Employee;
+import com.pavan.samplecrud.model.Employee;
 
 import java.util.Optional;
 

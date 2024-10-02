@@ -1,6 +1,6 @@
 package com.pavan.samplecrud.service;
 
-import com.pavan.samplecrud.entity.APIAudit;
+import com.pavan.samplecrud.model.APIAudit;
 
 public interface APIAuditService {
 

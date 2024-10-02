@@ -1,6 +1,6 @@
 package com.pavan.samplecrud.service.impl;
 
-import com.pavan.samplecrud.entity.Employee;
+import com.pavan.samplecrud.model.Employee;
 import com.pavan.samplecrud.repository.EmployeeRepository;
 import com.pavan.samplecrud.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;

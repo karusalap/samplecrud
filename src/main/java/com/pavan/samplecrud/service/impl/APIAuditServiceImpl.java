@@ -1,7 +1,7 @@
 package com.pavan.samplecrud.service.impl;
 
 import com.pavan.samplecrud.controller.EmployeeServiceController;
-import com.pavan.samplecrud.entity.APIAudit;
+import com.pavan.samplecrud.model.APIAudit;
 import com.pavan.samplecrud.repository.APIAuditRepository;
 import com.pavan.samplecrud.service.APIAuditService;
 import org.slf4j.Logger;

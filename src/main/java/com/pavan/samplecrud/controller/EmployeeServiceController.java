@@ -1,7 +1,7 @@
 package com.pavan.samplecrud.controller;
 
-import com.pavan.samplecrud.entity.APIAudit;
-import com.pavan.samplecrud.entity.Employee;
+import com.pavan.samplecrud.model.APIAudit;
+import com.pavan.samplecrud.model.Employee;
 import com.pavan.samplecrud.service.APIAuditService;
 import com.pavan.samplecrud.service.EmployeeService;
 import jakarta.servlet.http.HttpServletRequest;
